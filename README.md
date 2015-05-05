@@ -1,1 +1,1 @@
-# logo
+# MemGo Logos and Artwork
